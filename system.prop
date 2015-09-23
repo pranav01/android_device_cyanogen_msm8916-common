@@ -7,7 +7,7 @@ ro.config.max_starting_bg=8
 ro.sys.fw.use_trim_settings=true
 
 # Audio
-av.offload.enable=true
+audio.offload.video=true
 av.streaming.offload.enable=true
 audio.offload.buffer.size.kb=64
 audio.offload.gapless.enabled=true
